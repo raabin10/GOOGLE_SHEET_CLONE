@@ -44,4 +44,4 @@ function addListenterForAddressBarDisplay(cell,i,j) {
         let colId = String.fromCharCode(65+j);
         addressBar.value = `${colId}${rowId}`
     });
-}4
+}
