@@ -1,9 +1,9 @@
-#Google Sheet Clone
+# Google Sheet Clone
 This is a simplified clone of Google Sheets, a web-based spreadsheet application. It is built using HTML, CSS, and JavaScript. The HTML structure and features are briefly explained below.
 Check it out here - https://raabin10.github.io/GOOGLE_SHEET_CLONE/
 
-#Features
-Header
+# Features
+# Header
 The header contains various options and tools:
 
 Spreadsheet Name: You can edit the name of the spreadsheet.
@@ -21,10 +21,12 @@ Search: Find and search for text within the sheet.
 Grid (Commented Out)
 The grid section is currently commented out in the HTML file, indicating where the spreadsheet's main content would be located.
 
-Footer
+# Footer
 The footer includes:
 
 Add Sheet Icon: Allows you to add new sheets.
 Sheet Tabs: Displays the names of different sheets within the spreadsheet.
+![image](https://github.com/raabin10/GOOGLE_SHEET_CLONE/assets/112077212/4739bf00-518a-4420-a17a-2454952102ff)
+
 
 Feel free to further customize, enhance, and expand upon this HTML structure to create a fully functional Google Sheets clone.
